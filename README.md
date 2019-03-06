@@ -17,3 +17,4 @@ then you can open the GPeditor and and browse under local machine Adm templates 
 All policies live in the registry here: HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome
 
 Once you figured out your reg settings there is no need to import the adm file to every machine. Just capture your regedits and that is it. 
+; https://www.jamf.com/jamf-nation/discussions/10331/chrome-master-preferences-file-and-suppressing-first-run-browser
