@@ -1,2 +1,2 @@
-*.au3
-*.html
+*.au3 linguist-vendored
+*.html linguist-vendored
